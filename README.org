@@ -1,2 +1,2 @@
-* the-goat-rpg
+* the-goat-hack
 Official repository for my personal ttrpg system.
